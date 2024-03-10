@@ -1,0 +1,26 @@
+{
+"name": "qunima990-erhao",
+"version": "1.0.0",
+"description": "The project's feature modules are clear and easy to understand, allowing you to choose and use them according to your needs.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mraziksami/Feature-Modules.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mraziksami",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
